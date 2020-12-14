@@ -1,5 +1,5 @@
 {
-    "name": "matt-allan/laravel-code-style",
+    "name": "strangetin/laravel-code-style",
     "description": "Code formatting for Laravel projects",
     "type": "library",
     "license": "MIT",
@@ -23,7 +23,7 @@
     },
     "require": {
         "php": ">=7.2",
-        "friendsofphp/php-cs-fixer": "^2.15.6",
+        "strangetin/php-cs-fixer": "^2.15.6",
         "illuminate/support": "5.7.x|5.8.x|^6.0|^7.0|^8.0"
     },
     "require-dev": {
